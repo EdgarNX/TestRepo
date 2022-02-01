@@ -1,2 +1,3 @@
 test info
 new data
+new line with conflict
